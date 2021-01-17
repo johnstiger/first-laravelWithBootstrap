@@ -1,0 +1,12 @@
+.container{
+    margin-top: 50px;
+}
+.card{
+    box-shadow: 3px 3px 5px dimgray;
+    border: 1px solid dimgray;
+}
+.card-header{
+    background:rgb(5, 118, 248);
+    font-family: monospace;
+    text-align: center;
+}
